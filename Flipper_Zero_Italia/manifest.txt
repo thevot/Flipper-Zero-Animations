@@ -5,12 +5,12 @@ Name: NicolaSelenu_FZI_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
-Max level: 3
+Max level: 30
 Weight: 15
 
 Name: NicolaSelenu_VOT_128x64
 Min butthurt: 0
 Max butthurt: 10
 Min level: 1
-Max level: 3
+Max level: 30
 Weight: 15
